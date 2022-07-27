@@ -2,6 +2,10 @@
 ### Unity project allowing the user to view in a simple VR environment an animated object (format .blend, .fbx ...) with ready-to-use and configurable textures, lights, wireframe shader etc...
 
 
+![image](https://user-images.githubusercontent.com/94963203/181261550-9eb2bc57-b19f-403d-b573-b8846b0ee3da.png)
+
+
+
 ## How to use
 Download the zip file, unzip it and add the folder to the Unity Hub as a project.
 
