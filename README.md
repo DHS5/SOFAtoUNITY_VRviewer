@@ -23,6 +23,7 @@ To interact with the UI, simply use the index trigger of your VR controller, and
 
 
 Note that the functionnalities that follow aren't enabled in the VR viewer :
+* Camera movements thanks to shortcuts (obviously)
 * FBX Scene Recording
 * Light Preset Creation (Light presets need to be created in the Editor manualy)
 * Background management
